@@ -1,0 +1,24 @@
+
+# NetBeans generated files
+/build/
+/dist/
+/nbproject/private/
+
+# Compiled Java files
+*.class
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+
+
+# Private student and hostel data
+/students.txt
+/complaints.txt
+/rooms.txt
+
